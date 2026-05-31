@@ -266,19 +266,20 @@ MainActivityUiTest.kt
 
 ## 12. Скрийншотове
 
-Скрийншотовете се намират в папка:
+### Начален екран
+![Начален екран](screenshots/home_screen.jpg)
 
-```text
-/screenshots
-```
+### Добавяне на тренировка
+![Добавяне на тренировка](screenshots/add_workout_screen.jpg)
 
-Примерни екрани:
+### Редактиране на тренировка
+![Редактиране на тренировка](screenshots/edit_workout_screen.jpg)
 
-* начален екран;
-* екран за добавяне на тренировка;
-* екран за редакция;
-* екран с QR код;
-* Share Intent меню.
+### QR код
+![QR код](screenshots/qr_code_screen.jpg)
+
+### Споделяне на тренировка
+![Споделяне на тренировка](screenshots/share_workout_screen.jpg)
 
 ---
 
