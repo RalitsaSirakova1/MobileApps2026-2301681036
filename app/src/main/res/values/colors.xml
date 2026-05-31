@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_light">#F7F4FF</color>
+    <color name="card_light">#FFFFFF</color>
+    <color name="input_light">#FFFFFF</color>
+
+    <color name="text_primary">#1F1B2D</color>
+    <color name="text_secondary">#6B6478</color>
+    <color name="text_hint">#9A91AA</color>
+
+    <color name="accent_purple">#7C3AED</color>
+    <color name="accent_purple_dark">#5B21B6</color>
+    <color name="border_light">#E4DAF7</color>
+
+    <color name="delete_red">#DC2626</color>
+</resources>
