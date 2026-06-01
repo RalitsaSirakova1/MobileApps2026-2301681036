@@ -1,3 +1,27 @@
 <resources>
-    <string name="app_name">FitPlan2301681036</string>
+    <string name="app_name">FitPlan</string>
+
+    <string name="app_title">FitPlan</string>
+    <string name="app_subtitle">Create workout plans with multiple exercises</string>
+    <string name="add_workout">Add Workout</string>
+    <string name="empty_workouts_message">No workouts yet. Add your first workout plan.</string>
+
+    <string name="workout_plan_title">Workout Plan</string>
+    <string name="workout_plan_subtitle">Add a full workout with multiple exercises</string>
+
+    <string name="hint_workout_name">Workout name, e.g. Push Day</string>
+    <string name="hint_workout_category">Category, e.g. Strength, Cardio, Legs</string>
+    <string name="hint_workout_duration">Duration in minutes</string>
+    <string name="hint_workout_exercises">Exercises, e.g.&#10;1. Push Ups - 4 x 15&#10;2. Bench Press - 4 x 10&#10;3. Dumbbell Fly - 3 x 12</string>
+    <string name="hint_notes">Notes</string>
+
+    <string name="save_workout">Save Workout</string>
+    <string name="share_workout">Share Workout</string>
+    <string name="generate_qr_code">Generate QR Code</string>
+    <string name="delete_workout">Delete Workout</string>
+
+    <string name="qr_header">Workout QR Code</string>
+    <string name="qr_subtitle">Scan this code to view the workout information</string>
+    <string name="qr_default_workout_name">Workout Name</string>
+    <string name="qr_code_content_description">Workout QR code</string>
 </resources>

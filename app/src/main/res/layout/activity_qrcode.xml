@@ -17,7 +17,7 @@
             android:id="@+id/tvQrHeader"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Workout QR Code"
+            android:text="@string/qr_header"
             android:textColor="@color/text_primary"
             android:textSize="30sp"
             android:textStyle="bold" />
@@ -27,7 +27,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="6dp"
-            android:text="Scan this code to view the workout information"
+            android:text="@string/qr_subtitle"
             android:textColor="@color/text_secondary"
             android:textSize="15sp" />
 
@@ -37,7 +37,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="26dp"
             android:gravity="center"
-            android:text="Workout Name"
+            android:text="@string/qr_default_workout_name"
             android:textColor="@color/accent_purple"
             android:textSize="22sp"
             android:textStyle="bold" />
@@ -48,7 +48,7 @@
             android:layout_height="280dp"
             android:layout_marginTop="24dp"
             android:background="@drawable/bg_card"
-            android:contentDescription="Workout QR code"
+            android:contentDescription="@string/qr_code_content_description"
             android:padding="16dp" />
 
         <TextView
